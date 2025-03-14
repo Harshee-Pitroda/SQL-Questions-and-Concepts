@@ -4,6 +4,7 @@ This repository is a collection of SQL problems and solutions that I solve tagge
 Platforms:
 𝗦𝘁𝗮𝗿𝘁 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗶𝗻𝗴 𝘁𝗵𝗲 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀 𝗼𝗻 𝗺𝘂𝗹𝘁𝗶𝗽𝗹𝗲 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺𝘀.
 
+- SQLPAD - https://sqlpad.io/
 - Dataford - https://lnkd.in/gtqdw864
 - LeetCode - https://lnkd.in/gkCpv7NA
 - HackerRank - https://lnkd.in/gnFS4frz
